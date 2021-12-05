@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Eye\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Eye\\.nuget\\packages"
+    ]
+  }
+}
